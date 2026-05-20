@@ -1,0 +1,11 @@
+cmd=POOL
+in_h=104
+in_w=104
+in_c=128
+out_c=128
+out_h=52
+out_w=52
+ksize=0
+stride=2
+pad=0
+flags=0

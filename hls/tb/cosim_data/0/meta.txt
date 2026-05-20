@@ -1,0 +1,11 @@
+cmd=CONV
+in_h=416
+in_w=416
+in_c=3
+out_c=32
+out_h=416
+out_w=416
+ksize=3
+stride=1
+pad=1
+flags=1
